@@ -1,6 +1,6 @@
 git init
 git status
-git ad
+git add .
 
 git config --global user.name "xxx"
 git config --global user.email "xxx"
@@ -8,7 +8,11 @@ git config --global user.email "xxx"
 git commit -m "descrição de versão"
 git remote add origin "https do repositorio"
 git push -u origin main
+git pull
+git clone endereço do repositório.git
+
 
 ls
 ..
 clear
+cd
