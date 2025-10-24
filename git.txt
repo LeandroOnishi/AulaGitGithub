@@ -13,7 +13,7 @@ git clone endereço do repositório.git
 
 git branch "nome"
 git checkout login
-git
+git merge login(branch a juntar com a atual)
 
 ls
 ..
