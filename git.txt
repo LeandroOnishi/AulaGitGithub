@@ -10,8 +10,10 @@ git remote add origin "https do repositorio"
 git push -u origin main
 git pull
 git clone endereço do repositório.git
+
 git branch "nome"
 git checkout login
+git
 
 ls
 ..
